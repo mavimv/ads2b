@@ -1,0 +1,10 @@
+
+Design
+
+Arquitetura de Microservices;
+App mobile;
+Componentes da Interface do Software (Página de cadastramento, landpage Geolocation, Notification push, API/Gateway),
+QR Code Generation para identificação do usuário ao entrar no carro.
+Scrum como Framework  para o gerenciamento do projeto (trabalhos de ciclos de vida curtos).
+
+Na Arquitetura do design de software usaremos a arquitetura de Microservices, pois mostrou-se eficiente em pequenos módulos e independentes da aplicação principal.

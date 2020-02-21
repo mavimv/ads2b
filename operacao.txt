@@ -1,0 +1,7 @@
+Operação
+
+Operação - Processos de desenvolvimento, 
+Monitoramento  - Feedback dos processos,
+Verificação - Correção de prováveis bugs, inclusões de funcionalidades ou outros,
+Validação - Validar software em funcionamento.
+Tempo máximo em que o carro irá ficar esperando o passageiro - máx. 5 min.

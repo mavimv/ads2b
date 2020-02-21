@@ -1,0 +1,11 @@
+Teste
+
+O passageiro conseguiu realizar o cadastro?
+Ele conseguiu logar na plataforma com seus dados já cadastrados?
+O usuário conseguiu realizar a solicitação do veículo?
+O QRCode foi exibido na porta do passageiro para que o usuário possa fazer scanner?
+Quando o carro chega, o passageiro conseguiu fazer a verificação através do QR Code?
+O passageiro recebeu a notificação de confirmação de endereço ao embarcar?
+Ao término da viagem o usuário conseguiu receber o valor total da viagem e confirmar o pagamento?
+As informações de capital chegou ao sistema integrado ao software?
+O usuário recebeu uma mensagem pelo dispositivo para classificar e retornar ao software a informação de UX?

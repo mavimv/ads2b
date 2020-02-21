@@ -1,0 +1,12 @@
+Análise
+O sistema deve usar GPS;
+O sistema deve usar Carro autônomo;
+O sistema deve identificar o usuário (cadastro);
+O sistema deve receber pagamento;
+
+O objetivo do app é a locomoção rápida à baixo custo.
+O sistema começará com o cadastro por meio de nome, rg, cpf e formas de pagamento.
+O cadastro será feito por biometria facial, com dois passos:
+Tirar uma foto facial junto com o rg para comprovar a identidade;
+ Adicionar dados pessoais e foto.
+O GPS servirá para localizar os passageiros e seus respectivos destinos, que irá contar com uma API/gateway para integrar as transações de pagamento.

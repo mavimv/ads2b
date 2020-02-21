@@ -1,0 +1,12 @@
+Codificação
+
+API para integrar as transações de pagamento;
+Aplicações web, HTML5, CSS e JavaScript
+Linguagem de programação será o Python
+
+
+O Python será utilizado no desenvolvimento da aplicação mobile, por ser uma linguagem clara de fácil entendimento e por termos maior familiaridade com a linguagem.
+
+Para desenvolver a interface web, escolhemos as aplicações de HTML5, CSS e JavaScript, para ter uma construção eficiente e com uma cara moderna. Apesar de ser um app, pensamos na aplicabilidade de não precisar fazer a instalação do aplicativo, podendo também ser acessado pela web.
+ 
+O Kivy será a API que usaremos para as transações de pagamentos, pois é, voltada ao rápido desenvolvimento de aplicações que utilizam novas interfaces de usuário.
